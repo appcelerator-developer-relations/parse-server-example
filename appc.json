@@ -1,0 +1,14 @@
+{
+  "type": "api",
+  "group": "arrow",
+  "dependencies": {},
+  "cloud": {
+    "container": "Dev",
+    "minimum": 1,
+    "maximum": 1,
+    "maxqueuesize": 50,
+    "environment": {},
+    "cname": null,
+    "certificate": null
+  }
+}
