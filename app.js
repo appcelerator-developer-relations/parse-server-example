@@ -4,9 +4,9 @@ var AppcLogger = require('appc-logger');
 
 var app = express();
 var api = new ParseServer({
-	"databaseURI": "<MongoURIHere",
+	"databaseURI": "<MongoURIHere>",
 	"appId": "<AppIdHere>",
-	"masterKey": "MasterKeyHere"
+	"masterKey": "<MasterKeyHere>"
 });
 
 var loggger = AppcLogger.createExpressLogger(app);
