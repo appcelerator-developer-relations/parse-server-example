@@ -1,5 +1,7 @@
 # Hosting the Parse Server on Appcelerator's Cloud
 
+Blog Post Here:  http://www.appcelerator.com/blog/2016/02/your-very-own-mbaas-how-to-move-from-parse-to-appcelerator-arrow/
+
 Hosting the Parse Server on Arrow Cloud is easy.  Use this sample app to get started.
 
 # Steps to Deploy
