@@ -16,7 +16,7 @@ Hosting the Parse Server on Arrow Cloud is easy.  Use this sample app to get sta
 
 5.  Run it locally via `appc run` and test it out (see below sample cURL requests for testing)
 
-6.  When you're all ready, publish it via `appc publish`.  Upon publish you'll get a URL to your app.  The only thing left you have to do is change your clients to point to this new URL instead of the old Parse API (Note: you should get a CNAME for your API server).
+6.  When you're all ready, publish it via `appc cloud publish`.  Upon publish you'll get a URL to your app.  The only thing left you have to do is change your clients to point to this new URL instead of the old Parse API (Note: you should get a CNAME for your API server).
 
 For more information on using Arrow Cloud like setting up a CNAME, horizontally scaling, etc:  http://docs.appcelerator.com/platform/latest/#!/guide/Arrow_Cloud
 
