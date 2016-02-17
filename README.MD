@@ -26,6 +26,12 @@ https://parse.com/docs/server/guide#migrating
 
 https://github.com/ParsePlatform/parse-server
 
+For information on using push notifications and analytics:
+
+http://docs.appcelerator.com/platform/latest/#!/guide/Appcelerator_Analytics
+
+http://docs.appcelerator.com/arrowdb/latest/#!/guide/guides
+
 ### cURL Examples
 
 ```bash
